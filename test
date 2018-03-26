@@ -1,5 +1,5 @@
 class test {
   public static void main(String[] args) {
-    Sytem.out.println("My first code");
+    System.out.println("My first code");
     }
 }
